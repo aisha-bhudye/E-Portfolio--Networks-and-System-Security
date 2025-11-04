@@ -1,6 +1,6 @@
 # Network & System Security Lecture Resources
 
-This Portfolio contains the lab work done during seminars/workshops , lecture notes and notes that were taken on the extra reading .
+This Portfolio contains the lab work done during seminars/workshops , lecture notes, notes that were taken on the extra reading as well as reflection pieces for each week .
 
 Below are the flashcards made for all the lectures  used for revision, each week .
 
