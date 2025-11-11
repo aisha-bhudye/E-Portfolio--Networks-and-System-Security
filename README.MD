@@ -36,7 +36,14 @@ Below are the flashcards made for all the lectures  used for revision, each week
 ## Lecture 5: Networks and System Security
 **Topics Covered:**  
 
-**Flashcards:** [Lecture 5 - Networks and System Security](https://quizlet.com/gb/1099667830/lecture-5-networks-and-system-security-flash-cards/?funnelUUID=c07e8201-3298-4c7e-a27e-3ff094decae9)  
+**Flashcards:** [Lecture 5 - Networks and System Security](https://quizlet.com/gb/1099667830/lecture-5-networks-and-system-security-flash-cards/?funnelUUID=c07e8201-3298-4c7e-a27e-3ff094decae9) 
+
+---
+
+## Lecture 6: Networks and System Security
+**Topics Covered:**  
+
+**Flashcards:** [Lecture 6 - Networks and System Security](https://quizlet.com/gb/1106514799/networks-and-system-security-lecture-6-reverse-engineering-in-practice-modern-malware-analysis-flash-cards/?funnelUUID=4f1e0a89-1df3-41d2-836d-d67b693ffd87)  
 
 
 
