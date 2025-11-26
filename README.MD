@@ -50,6 +50,10 @@ Below are the flashcards made for all the lectures  used for revision, each week
 
 **Flashcards:** [Lecture 7 - Networks and System Security](https://quizlet.com/gb/1110127633/networks-and-system-security-lecture-07-flash-cards/?new)  
 
+## Lecture 8: Networks and System Security
+**Topics Covered:**  
+
+**Flashcards:** [Lecture 8 - Networks and System Security](https://quizlet.com/gb/1113102498/networks-and-security-lecture-8-flash-cards/?funnelUUID=f32ba0f5-0ace-49cc-8fce-fec6f9a9b814)  
 
 
 **Author:** [Aisha Bhudye - 33734353]  
