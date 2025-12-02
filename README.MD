@@ -55,6 +55,11 @@ Below are the flashcards made for all the lectures  used for revision, each week
 
 **Flashcards:** [Lecture 8 - Networks and System Security](https://quizlet.com/gb/1113102498/networks-and-security-lecture-8-flash-cards/?funnelUUID=f32ba0f5-0ace-49cc-8fce-fec6f9a9b814)  
 
+## Lecture 9: Networks and System Security
+**Topics Covered:**  
+
+**Flashcards:** [Lecture 9 - Networks and System Security](https://quizlet.com/gb/1115218616/cyber-security-mitre-attck-attack-lifecycle-and-case-studies-flash-cards/?funnelUUID=c4927626-9ded-4bf5-9514-4b56d7de6bbf)  
+
 
 **Author:** [Aisha Bhudye - 33734353]  
 **Course:** Network & System Security  
