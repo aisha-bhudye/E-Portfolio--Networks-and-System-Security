@@ -64,3 +64,22 @@ Below are the flashcards made for all the lectures  used for revision, each week
 **Author:** [Aisha Bhudye - 33734353]  
 **Course:** Network & System Security  
 
+**AI Declaration**
+I acknowledge the use of ChatGPT (OpenAI, 2025) and Grammarly (Grammarly Inc., 2025) to assist with proofreading, grammar checking, and improving sentence structure and clarity in Reflection, Lecture notes and Extra Reading parts of this  assessment. Both tools were used solely for language refinement; no generated text, ideas, or analytical content were included in the submitted work. ChatGPT was also used to assist with identifying and debugging errors in my code, clarifying programming concepts, and suggesting improvements to code structure. ChatGPT was accessed via https://chat.openai.com/ in November 2025 using the prompt:
+
+“Proofread and improve the grammar and flow of my report.”
+
+“Explain why this error message appears in my code and how to fix it.”
+
+“Suggest a clearer way to structure this function.”
+
+“What is the correct syntax for implementing this feature?”
+
+Grammarly was used for grammar correction and sentence structure review via https://www.grammarly.com/.
+
+**Reference List** 
+OpenAI (2025) ChatGPT [Generative AI model]. Available at: https://chat.openai.com/ (Accessed: November 2025).
+
+Grammarly Inc. (2025) Grammarly [AI writing assistance tool]. Available at: https://www.grammarly.com/ (Accessed: November 2025).
+
+
